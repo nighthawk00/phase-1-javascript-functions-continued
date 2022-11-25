@@ -1,1 +1,11 @@
-// code your solution here
+function saturdayFun(activity) {
+
+}
+
+function mondayWork() {
+
+}
+
+function wrapAdjective() {
+    
+}
